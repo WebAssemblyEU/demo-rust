@@ -1,0 +1,16 @@
+{
+  "name": "rust-demo",
+  "collaborators": [
+    "Thomas Tränkler <github.com@thomas.traenkler.com>"
+  ],
+  "description": null,
+  "version": "0.1.0",
+  "license": null,
+  "repository": null,
+  "files": [
+    "rust_demo_bg.wasm",
+    "rust_demo.d.ts"
+  ],
+  "main": "rust_demo.js",
+  "types": "rust_demo.d.ts"
+}
